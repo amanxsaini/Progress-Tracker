@@ -16,7 +16,7 @@
   - - [x] Conditionals & Loops in Java
     - - [x] if else
     - - [x] loops
-    - - [ ] Switch statements
+    - - [x] Switch statements
   - - [ ] Data types
   - - [ ] Coding best practices
 - [ ] Functions
